@@ -19,11 +19,11 @@ Some Project I Worked
     - [code](https://githubcom/boss-moh/simple-website)
    
    -  Quiz App
-     - [Demo](https://main--neon-cendol-837632netlifyapp/)
-     - [code](https://githubcom/boss-moh/React-quiz-app-with-api)
+     - [Demo](https://main--neon-cendol-837632netlifyapp/).
+     - [code](https://githubcom/boss-moh/React-quiz-app-with-api).
 
    -  Project Freelancer
-     - [Demo](https://luminous-maamoul-63de58.netlify.app/)
+     - [Demo](https://luminous-maamoul-63de58.netlify.app/).
      - code is private
 <!--
 **boss-moh/boss-moh** is a ✨ _special_ ✨ repository because its `READMEmd` (this file) appears on your GitHub profile
