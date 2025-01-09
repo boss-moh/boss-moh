@@ -36,10 +36,6 @@
 
 ###
 
-
-# Hi there 👋
- I Am Mohammed , React Developer  Frontend Developer
-
 Some Project I Worked 
 ## HTML & CSS 
 - kasper 
