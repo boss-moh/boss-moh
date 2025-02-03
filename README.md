@@ -10,9 +10,7 @@
 
 ###
 
-<p align="left">I describe myself as a passionate developer who loves coding and solving problems and puzzles.<br>I am a software engineer, and I care about technology development, especially web development. I love the opportunity for personal development and growth.<br>I have experience in website development and design for over 3 years, and I have a great ability to deliver work very quickly and efficiently.<br><br>✨ Creating bugs since ...<br>📚 I'm currently learning Next.js <br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
+<p align="left">I describe myself as a passionate developer who loves coding and solving problems and puzzles.<br>I am a software engineer, and I care about technology development, especially web development. I love the opportunity for personal development and growth.<br>I have experience in website development and design for over 3 years, and I have a great ability to deliver work very quickly and efficiently.
 
 <h2 align="left">I code with</h2>
 
@@ -37,27 +35,43 @@
 ###
 
 Some Project I Worked 
-## HTML & CSS 
-- kasper 
-    - [Demo](https://boss-mohgithubio/html-css-template-two)
-    - [code](https://githubcom/boss-moh/html-css-template-two)
-- Boss
-    - [Demo](https://boss-mohgithubio/html-css-template-five)
-    - [code](https://githubcom/boss-moh/html-css-template-five)
- ## JS 
- - Todo
-    - [Demo](https://boss-mohgithubio/to-do-js-/)
-    - [code](https://githubcom/boss-moh/to-do-js-)
- ## React
-  - Simple Social Website
-    - [Demo](https://moh-boss-simplewebsitenetlifyapp/)
-    - [code](https://githubcom/boss-moh/simple-website)
-   
-   -  Quiz App
-     - [Demo](https://main--neon-cendol-837632netlifyapp/).
-     - [code](https://githubcom/boss-moh/React-quiz-app-with-api).
 
-   -  Project Freelancer
-     - [Demo](https://luminous-maamoul-63de58.netlify.app/).
-     - code is private
+
+## React
+
+- Store Shop.co
+    - Description: An e-commerce website built with React, showcasing product listings and a shopping cart feature.
+    - Technologies: React, React Router , Axios,TailwindCss.
+    - [Live Demo](https://resplendent-seahorse-8ee20e.netlify.app/)
+    - [code](https://github.com/boss-moh/Store)
+
+- Auth Website
+  - Description: A user authentication system with login and signup functionality.
+  - Technologies: React, React Router , Axios,TailwindCss.
+  - [Live Demo](https://sensational-shortbread-0f3f62.netlify.app/)
+  - [code](https://github.com/boss-moh/Auth)
+
+- Quiz App
+    - Description: A quiz application that fetches questions from an API and allows users to test their knowledge.
+    - Technologies: React, React Router .
+    - [Live Demo](https://neon-cendol-837632.netlify.app/).
+    - [code](https://githubcom/boss-moh/React-quiz-app-with-api).
+
+## JS
+
+- Todo
+  - [Live Demo](https://boss-moh.github.io/to-do-js-/)
+  - [code](https://github.com/boss-moh/to-do-js-)
+
+## HTML & CSS
+
+- ROSA
+    - [Live Demo](https://boss-moh.github.io/ROSA/)
+    - [code](https://github.com/boss-moh/ROSA)
+- kasper
+  - [Live Demo](https://boss-moh.github.io/html-css-template-two/)
+  - [code](https://github.com/boss-moh/html-css-template-two)
+- Boss
+  - [Live Demo](https://boss-moh.github.io/html-css-template-five/)
+  - [code](https://githubcom/boss-moh/html-css-template-five/)
 
