@@ -44,6 +44,7 @@ Some Project I Worked
     - Technologies: React, React Router , Axios,TailwindCss.
     - [Live Demo](https://resplendent-seahorse-8ee20e.netlify.app/)
     - [code](https://github.com/boss-moh/Store)
+    -  For More Details [Description] ('https://github.com/boss-moh/Store/blob/main/info/about.md')
 
 - Auth Website
   - Description: A user authentication system with login and signup functionality.
