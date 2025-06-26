@@ -1,5 +1,5 @@
 
-<h1 align="center"> 👋 Hey there! Welcome to my GitHub Profile </h1>
+<h1 align="center">  Mohammed Abu Kmail – Frontend Developer</h1>
 
 ## 🌟 About Me
 
@@ -9,8 +9,9 @@ I describe myself as a curious developer who loves coding and staying up-to-date
 
 ---
 
-## 💻 Technologies I Work With
 
+
+## 💻 Technologies I Work With
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
@@ -27,13 +28,24 @@ I describe myself as a curious developer who loves coding and staying up-to-date
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
 </div>
 
+
 ---
 
+## 🛠️ Development Workflow
+
+- Component-driven development using React
+- Server-Side Rendering (SSR) and Static Site Generation (SSG) with Next.js
+- Type safety with TypeScript
+- Responsive design using Tailwind CSS and shadcn/ui
+- State management: Zustand, Context API, React Query
+- RESTful API integration
+- Git version control and GitHub Actions for CI/CD
+
+
+
+
 ## 🚀 Projects I've Worked On
-
-
 ### 🌟 TastyGo Food Delivery Platform
-
 #### Overview
 **TastyGo** is a comprehensive food delivery platform built with modern web technologies. It connects customers with restaurants, enabling seamless food ordering, preparation, and delivery tracking. The platform supports multiple user roles, including customers, restaurant staff, delivery drivers, and administrators.
 
@@ -61,45 +73,15 @@ For more details, check out the links ,
 
 ---
 
-### 🛒 Other Projects
+### 🛠️ Other Projects
 
-#### React Projects
-1. **Store Shop.co**
-   - Description: An e-commerce website built with React, showcasing product listings and a shopping cart feature.
-   - Technologies: React, React Router, Axios, TailwindCSS
-   - [Live Demo](https://resplendent-seahorse-8ee20e.netlify.app/)
-   - [Code](https://github.com/boss-moh/Store)
-   - [More Details](https://github.com/boss-moh/Store/blob/main/info/about.md)
-
-2. **Auth Website**
-   - Description: A user authentication system with login and signup functionality.
-   - Technologies: React, React Router, Axios, TailwindCSS
-   - [Live Demo](https://sensational-shortbread-0f3f62.netlify.app/)
-   - [Code](https://github.com/boss-moh/Auth)
-
-3. **Quiz App**
-   - Description: A quiz application that fetches questions from an API and allows users to test their knowledge.
-   - Technologies: React, React Router
-   - [Live Demo](https://neon-cendol-837632.netlify.app/)
-   - [Code](https://github.com/boss-moh/React-quiz-app-with-api)
-
-#### JavaScript Projects
-1. **Todo App**
-   - [Live Demo](https://boss-moh.github.io/to-do-js-/)
-   - [Code](https://github.com/boss-moh/to-do-js-)
-
-#### HTML & CSS Projects
-1. **ROSA**
-   - [Live Demo](https://boss-moh.github.io/ROSA/)
-   - [Code](https://github.com/boss-moh/ROSA)
-
-2. **Kasper**
-   - [Live Demo](https://boss-moh.github.io/html-css-template-two/)
-   - [Code](https://github.com/boss-moh/html-css-template-two)
-
-3. **Boss**
-   - [Live Demo](https://boss-moh.github.io/html-css-template-five/)
-   - [Code](https://github.com/boss-moh/html-css-template-five)
+| Project        | Description                             | Tech Stack         | Demo / Code |
+|----------------|------------------------------------------|--------------------|-------------|
+| **Store Shop.co** | E-commerce website with product listings and shopping cart. | React, React Router, Axios, TailwindCSS | [Demo](https://resplendent-seahorse-8ee20e.netlify.app/ ) / [Code](https://github.com/boss-moh/Store ) |
+| **Auth Website** | User authentication system with login and signup. | React, React Router, Axios, TailwindCSS | [Demo](https://sensational-shortbread-0f3f62.netlify.app/ ) / [Code](https://github.com/boss-moh/Auth ) |
+| **Quiz App** | Interactive quiz app that fetches questions from an API. | React | [Demo](https://neon-cendol-837632.netlify.app/ ) / [Code](https://github.com/boss-moh/React-quiz-app-with-api ) |
+| **Todo App** | Simple task manager application. | JavaScript | [Demo](https://boss-moh.github.io/to-do-js- ) / [Code](https://github.com/boss-moh/to-do-js- ) |
+| **ROSA** | Responsive HTML/CSS template. | HTML, CSS | [Demo](https://boss-moh.github.io/ROSA/ ) / [Code](https://github.com/boss-moh/ROSA ) |
 
 ---
 
