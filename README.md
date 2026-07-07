@@ -17,6 +17,11 @@ I'm a software engineer with a full-stack background in **React**, **Next.js**, 
 - 🎓 B.Sc. in Software Engineering, Al-Azhar University (2020–2026)
 - 🌍 Passionate about rebuilding and growing Palestine's tech ecosystem
 
+<p align="center">
+  <a href="moh.saad.abu.kmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohammed-abu-kmail/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
 ---
 
 ## Experience 💼
@@ -100,7 +105,6 @@ Booking and administrative management tool built on the Next.js ecosystem.
 ### 📫 Connect with me
 
 <p>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="moh.saad.abu.kmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohammed-abu-kmail/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
