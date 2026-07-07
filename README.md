@@ -19,6 +19,30 @@ I'm a software engineer with a full-stack background in **React**, **Next.js**, 
 
 ---
 
+## Experience 💼
+
+### Software Engineer – Mentee at Wasla Connect
+**2026**
+
+An initiative that prepares emerging engineers for the global job market through mentorship, intensive sprints, and professional development.
+
+- Developed 'Murshidly', a mentorship platform, from concept to MVP in 7 days as part of the Ibtikar Fund × Replit Build Week, securing 3rd place out of 65 teams
+- Strengthened cross-cultural communication and remote collaboration skills through weekly sessions with international professionals
+- Developed a product-oriented perspective by studying how software decisions align with real business and user needs
+
+### Software Engineer at Talents Valley Company
+**2022 – 2023**
+
+A software house that builds high-quality software while fostering a community of developers through senior-level engineering standards.
+
+**Stack:** Next.js 15, React 19, TypeScript, RESTful APIs, NextAuth
+
+- **Feature Engineering:** Built scalable Next.js applications, developed a library of reusable components including dynamic data tables and transaction tracking drawers
+- **Performance Optimization:** Boosted application speed by restructuring state management logic to eliminate redundant re-renders and implementing caching strategies to minimize API requests
+- **Agile Delivery:** Collaborated with the team to design technical solutions and RESTful integrations, ensuring high code quality through rigorous peer reviews and Agile sprints
+
+---
+
 ### 🛠️ Tech Stack
 
 **Frontend**
@@ -66,18 +90,6 @@ Full-stack app with **Next.js 15, React 19, PostgreSQL, Prisma, and Tailwind CSS
 #### 🎭 Theater Hall Management System
 Booking and administrative management tool built on the Next.js ecosystem.
 
----
-
-### 💼 Experience
-
-| Role | Organization | Focus |
-|---|---|---|
-| Software Engineer | Talents Valley (2022–2023) | Frontend/full-stack (React, Next.js), business-aligned engineering |
-| Freelance Software Engineer | Upwork & Independent Projects | Client-facing web solutions, translating requirements into architecture |
-| Intern Club Member | Talents Valley Coaching Program | Peer learning, self-directed DSA study, technical teaching |
-| Peer Academic Support | Al-Azhar University | Mentoring peers on programming & CS fundamentals, incl. transformer-era AI/ML topics |
-
----
 
 ### 📚 Currently Learning
 
