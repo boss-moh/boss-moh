@@ -1,87 +1,94 @@
+<h1 align="center">Hi 👋, I'm Mohammed</h1>
+<h3 align="center">Full-Stack Software Engineer · React & Next.js · Building for real-world impact</h3>
 
-<h1 align="center">  Mohammed Abu Kmail – Frontend Developer</h1>
-
-## 🌟 About Me
-
-I’m **Mohammed**, a passionate **Frontend Developer** specializing in React.js and modern web technologies. With over **3 years of experience** in website development and design, I thrive on solving problems, building intuitive user interfaces, and delivering high-quality projects efficiently.
-
-I describe myself as a curious developer who loves coding and staying up-to-date with the latest trends in web development. My focus is on creating seamless, responsive, and performant web applications that provide exceptional user experiences.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+(React+%7C+Next.js+%7C+Node.js);3rd+Place+%40+Ibtikar+Fund+Build+Week+(65+teams);Exploring+AI%2FML+with+Google+DeepMind+Research+Foundations" alt="Typing SVG" />
+</p>
 
 ---
 
+### 🚀 About Me
 
+I'm a software engineer with a full-stack background in **React**, **Next.js**, and **Node.js**, and a growing focus on **AI/ML**. I care about writing code that solves real problems — not just code that runs.
 
-## 💻 Technologies I Work With
-<div align="center">
-  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"  height="40" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40" alt="tailwindcss logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40"  alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"  alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40"  alt="typescript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40"  alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="40"  alt="nextjs logo" />
-</div>
-
+- 🏆 **3rd Place** out of 65 teams — Ibtikar Fund Build Week (May 2026), for building **Murshidly**, a mentorship platform connecting students with mentors for education recovery
+- 💼 Software Engineer experience at **Talents Valley**, shifting from a purely technical focus to a strategic business perspective (understanding B2B/B2C needs behind the code)
+- 🧠 Currently studying **AI Research Foundations** with Google DeepMind via TRI AI Saturdays (Cohort 10) — language modeling, transformers, embeddings
+- 🎓 B.Sc. in Software Engineering, Al-Azhar University (2020–2026)
+- 🌍 Passionate about rebuilding and growing Palestine's tech ecosystem
 
 ---
 
-## 🛠️ Development Workflow
+### 🛠️ Tech Stack
 
-- Component-driven development using React
-- Server-Side Rendering (SSR) and Static Site Generation (SSG) with Next.js
-- Type safety with TypeScript
-- Responsive design using Tailwind CSS and shadcn/ui
-- State management: Zustand, Context API, React Query
-- RESTful API integration
-- Git version control and GitHub Actions for CI/CD
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
+**Backend & Data**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
 
-
-
-## 🚀 Projects I've Worked On
-### 🌟 TastyGo Food Delivery Platform
-#### Overview
-**TastyGo** is a comprehensive food delivery platform built with modern web technologies. It connects customers with restaurants, enabling seamless food ordering, preparation, and delivery tracking. The platform supports multiple user roles, including customers, restaurant staff, delivery drivers, and administrators.
-
-#### Technologies Used
-- **Core Frameworks**: Next.js 15 (App Router), React 19, TypeScript
-- **Styling**: Tailwind CSS, shadcn/ui, Lucide React
-- **Database & ORM**: PostgreSQL, Prisma
-- **Form Handling**: React Hook Form, Zod
-- **State Management**: React Context API, Zustand
-- **Authentication**: NextAuth for secure role-based access control
-
-#### Key Features
-- **Customer Features**: User authentication, menu browsing, shopping cart, order tracking, and history.
-- **Admin Features**: Dashboard, order management, customer and user management.
-- **Chef Features**: Kitchen dashboard, preparation tracking, category and product management.
-- **Driver Features**: Delivery dashboard, order details, and status updates.
-
-#### Architecture
-The application follows a modular architecture with server components for performance, client components for interactivity, and API routes for secure data operations.
-
-For more details, check out the links ,
- - [Live Demo](https://food-app-mu-opal.vercel.app/)
-  - [Code](https://github.com/boss-moh/food-app/)
-  - [More Details](https://github.com/boss-moh/food-app/blob/main/about.md)
+**Tools & Practices**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
+</p>
 
 ---
 
-### 🛠️ Other Projects
+### 🌟 Featured Projects
 
-| Project        | Description                             | Tech Stack         | Demo / Code |
-|----------------|------------------------------------------|--------------------|-------------|
-| **Store Shop.co** | E-commerce website with product listings and shopping cart. | React, React Router, Axios, TailwindCSS | [Demo](https://resplendent-seahorse-8ee20e.netlify.app/ ) / [Code](https://github.com/boss-moh/Store ) |
-| **Auth Website** | User authentication system with login and signup. | React, React Router, Axios, TailwindCSS | [Demo](https://sensational-shortbread-0f3f62.netlify.app/ ) / [Code](https://github.com/boss-moh/Auth ) |
-| **Quiz App** | Interactive quiz app that fetches questions from an API. | React | [Demo](https://neon-cendol-837632.netlify.app/ ) / [Code](https://github.com/boss-moh/React-quiz-app-with-api ) |
-| **Todo App** | Simple task manager application. | JavaScript | [Demo](https://boss-moh.github.io/to-do-js- ) / [Code](https://github.com/boss-moh/to-do-js- ) |
-| **ROSA** | Responsive HTML/CSS template. | HTML, CSS | [Demo](https://boss-moh.github.io/ROSA/ ) / [Code](https://github.com/boss-moh/ROSA ) |
+#### 🎓 Murshidly — Mentorship Platform
+Built during the **Ibtikar Fund Build Week** (May 2026). **3rd place out of 65 teams.** Connects students with mentors to support education recovery. Core/lead developer using a modern JavaScript/TypeScript stack.
+
+#### 🍔 TastyGo — Food Delivery Platform
+Full-stack app with **Next.js 15, React 19, PostgreSQL, Prisma, and Tailwind CSS**. Features role-based access control (Admin, Vendor, Client) and a fully responsive interface — demonstrating secure, scalable full-stack architecture.
+
+#### 🎬 Movie Reservation System — Backend REST API
+`Node.js` · `TypeScript` · `PostgreSQL` · `Prisma` · `Vitest`
+- Multi-domain backend covering auth, movies, halls, showtimes, and reservations
+- Secure JWT system with access/refresh token rotation, Zod validation, and revocation to prevent replay attacks
+- Consistent typed `ApiResponse<T>` envelope across all endpoints
+- Full TDD test suite (Red-Green-Refactor) with mocked Prisma via `jest-mock-extended`
+- CI/CD pipeline via GitHub Actions → Docker image → Docker Hub → automated deploy
+
+#### 🎭 Theater Hall Management System
+Booking and administrative management tool built on the Next.js ecosystem.
 
 ---
 
-## 📩 Let's Connect!
+### 💼 Experience
 
-I’m always open to new opportunities, collaborations, or just chatting about tech! Feel free to reach out:
+| Role | Organization | Focus |
+|---|---|---|
+| Software Engineer | Talents Valley (2022–2023) | Frontend/full-stack (React, Next.js), business-aligned engineering |
+| Freelance Software Engineer | Upwork & Independent Projects | Client-facing web solutions, translating requirements into architecture |
+| Intern Club Member | Talents Valley Coaching Program | Peer learning, self-directed DSA study, technical teaching |
+| Peer Academic Support | Al-Azhar University | Mentoring peers on programming & CS fundamentals, incl. transformer-era AI/ML topics |
 
-- **Email**: [moh.saad.abu.kmail@gmail.com](mailto:moh.saad.abu.kmail@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/mohammed-abu-kmail](https://www.linkedin.com/in/mohammed-abu-kmail)
+---
+
+### 📚 Currently Learning
+
+**Google DeepMind AI Research Foundations** (TRI AI Saturdays, Cohort 10 — *in progress*): tokenization & embeddings, neural networks & backpropagation, transformer architecture, and the fundamentals behind modern LLMs.
+
+---
+
+### 📫 Connect with me
+
+<p>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
